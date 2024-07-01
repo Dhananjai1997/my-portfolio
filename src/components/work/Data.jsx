@@ -25,7 +25,7 @@ export const projectsData = [
         id : 3,
         image : Work3,
         title : 'Kurukshetra University',
-        category : 'web',
+        category : 'design',
         link : "https://kurukshetrauniversity.vercel.app",
           buttonName : "kuk"
     },
