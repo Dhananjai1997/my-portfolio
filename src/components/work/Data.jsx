@@ -45,6 +45,14 @@ export const projectsData = [
         link : "https://www.figma.com/proto/EiK4QP4Dh4wvkJx7FCxSLT/personal-project?page-id=0%3A1&node-id=1-279&viewport=405%2C466%2C0.21&t=bSVVAgU4NLPdbxWO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A279&show-proto-sidebar=1",
           buttonName : "Figma design"
     },
+    {
+        id : 6,
+        image : Work6,
+        title : 'Form design',
+        category : 'design',
+        link : "https://queryform.vercel.app/",
+          buttonName : "Form design"
+    },
 ];
 
 export const projectsNav = [
