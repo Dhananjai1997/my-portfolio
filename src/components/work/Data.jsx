@@ -4,7 +4,7 @@ import Work3 from '../../assets/kuk.png'
 import Work4 from '../../assets/organic.png'
 import Work5 from '../../assets/figma.png'
 import Work6 from '../../assets/form.png'
-import Work7 from '../../assets/figma.png'
+import Work7 from '../../assets/form.png'
 
 export const projectsData = [
     {
