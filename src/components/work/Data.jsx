@@ -49,11 +49,19 @@ export const projectsData = [
     },
     {
         id : 6,
-        image : Work5,
+        image : Work6,
         title : 'Form design',
         category : 'design',
         link : "https://queryform.vercel.app/",
           buttonName : "Form design"
+    },
+    {
+        id : 7,
+        image : Work7,
+        title : 'app design',
+        category : 'app',
+        link : "",
+          buttonName : "demo"
     },
 ];
 
