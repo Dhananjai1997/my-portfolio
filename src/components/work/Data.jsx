@@ -2,7 +2,9 @@ import Work1 from '../../assets/bhaarghumo.png'
 import Work2 from '../../assets/varsha.jpg'
 import Work3 from '../../assets/kuk.png'
 import Work4 from '../../assets/organic.png'
-import Work5 from '../../assets/work5.jpg'
+import Work5 from '../../assets/figma.png'
+import Work6 from '../../assets/organic.png'
+import Work7 from '../../assets/organic.png'
 
 export const projectsData = [
     {
