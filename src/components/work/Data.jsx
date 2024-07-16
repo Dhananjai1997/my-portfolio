@@ -4,7 +4,7 @@ import Work3 from '../../assets/kuk.png'
 import Work4 from '../../assets/organic.png'
 import Work5 from '../../assets/figma.png'
 import Work6 from '../../assets/form.png'
-import Work7 from '../../assets/work4.jpg'
+import Work7 from '../../assets/app.png'
 
 export const projectsData = [
     {
@@ -58,10 +58,10 @@ export const projectsData = [
     {
         id : 7,
         image : Work7,
-        title : 'app design',
+        title : 'Happy Flower',
         category : 'app',
         link : "",
-          buttonName : "demo"
+          buttonName : "Happy Flower"
     },
 ];
 
