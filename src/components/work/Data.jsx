@@ -60,7 +60,7 @@ export const projectsData = [
         image : Work7,
         title : 'Happy Flower',
         category : 'app',
-        link : "https://www.figma.com/design/rTK2SSL4fY8RfFUNA9xbwH/flower-app?node-id=13-242&t=sApRt1ytlQ5FrJTv-0",
+        link : "https://www.figma.com/proto/rTK2SSL4fY8RfFUNA9xbwH/flower-app?page-id=0%3A1&node-id=1-6&viewport=740%2C352%2C0.17&t=IZDkTairDoP9ppmW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A6",
           buttonName : "Happy Flower"
     },
 ];
