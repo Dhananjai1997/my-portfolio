@@ -58,10 +58,10 @@ export const projectsData = [
     {
         id : 7,
         image : Work7,
-        title : 'Happy Flower',
+        title : 'HRMS',
         category : 'app',
-        link : "https://www.figma.com/proto/rTK2SSL4fY8RfFUNA9xbwH/flower-app?page-id=0%3A1&node-id=1-6&viewport=740%2C352%2C0.17&t=IZDkTairDoP9ppmW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A6",
-          buttonName : "Happy Flower"
+        link : "https://www.figma.com/proto/gdXxoStWU990FIlyPrgV8M/Untitled?page-id=0%3A1&node-id=74-463&viewport=470%2C1980%2C0.63&t=CTTdhLSlCwfRPxwg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=74%3A463",
+          buttonName : "HRMS"
     },
 ];
 
