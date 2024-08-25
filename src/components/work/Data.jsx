@@ -1,4 +1,4 @@
-import Work1 from '../../assets/bhaarghumo.png'
+// import Work1 from '../../assets/bhaarghumo.png'
 import Work2 from '../../assets/varsha.jpg'
 import Work3 from '../../assets/kuk.png'
 import Work4 from '../../assets/organic.png'
@@ -7,14 +7,14 @@ import Work6 from '../../assets/form.png'
 import Work7 from '../../assets/app.png'
 
 export const projectsData = [
-    {
+    // {
         // id : 1,
         // image : Work1,
         // title : 'Bhaarghumo',
         // category : 'web',
         // link: "https://bhaarghumo.com/",
         // buttonName : "bhaarghumo"
-    },
+    // },
     {
         id : 2,
         image : Work2,
