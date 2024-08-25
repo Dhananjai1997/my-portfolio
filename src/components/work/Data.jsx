@@ -8,12 +8,12 @@ import Work7 from '../../assets/app.png'
 
 export const projectsData = [
     {
-        id : 1,
-        image : Work1,
-        title : 'Bhaarghumo',
-        category : 'web',
-        link: "https://bhaarghumo.com/",
-        buttonName : "bhaarghumo"
+        // id : 1,
+        // image : Work1,
+        // title : 'Bhaarghumo',
+        // category : 'web',
+        // link: "https://bhaarghumo.com/",
+        // buttonName : "bhaarghumo"
     },
     {
         id : 2,
@@ -35,7 +35,7 @@ export const projectsData = [
         id : 4,
         image : Work4,
         title : 'Organic',
-        category : 'design',
+        category : 'web',
         link : "https://organic-resources.vercel.app",
           buttonName : "organic"
     },
