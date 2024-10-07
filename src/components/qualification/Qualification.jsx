@@ -114,7 +114,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Web Developer Intern</h3>
                             <span className="qualification__subtitle">CAL Info - Kurukshetra</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calender-alt">June 2023 - Sept 2023</i>
+                                <i className="uil uil-calender-alt">2023</i>
                             </div>
                         </div>
 
