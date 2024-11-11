@@ -13,9 +13,9 @@ const Social = () =>{
                 <i className="uil uil-linkedin"></i>
             </a>
 
-{/*             <a href="https://www.behance.net/dhananjaiyadav97" className="home__social-icon"  target="_blank" rel="noopener noreferrer">
+            <a href="https://www.behance.net/dhananjaiyadav97" className="home__social-icon"  target="_blank" rel="noopener noreferrer">
                 <i className="uil uil-behance"></i>
-            </a> */}
+            </a>
 
         </div>
     )
