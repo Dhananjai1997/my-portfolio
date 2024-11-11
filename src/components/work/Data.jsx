@@ -55,14 +55,14 @@ export const projectsData = [
         link : "https://queryform.vercel.app/",
           buttonName : "Form design"
     },
-    // {
-    //     id : 7,
-    //     image : Work7,
-    //     title : 'HRMS',
-    //     category : 'app',
-    //     link : "https://www.figma.com/proto/gdXxoStWU990FIlyPrgV8M/Untitled?page-id=0%3A1&node-id=74-463&viewport=470%2C1980%2C0.63&t=CTTdhLSlCwfRPxwg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=74%3A463",
-    //       buttonName : "HRMS"
-    // },
+    {
+        id : 7,
+        image : Work7,
+        title : 'HRMS',
+        category : 'app',
+        link : "https://www.figma.com/proto/gdXxoStWU990FIlyPrgV8M/Untitled?page-id=0%3A1&node-id=74-463&viewport=470%2C1980%2C0.63&t=CTTdhLSlCwfRPxwg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=74%3A463",
+          buttonName : "HRMS"
+    },
 ];
 
 export const projectsNav = [
