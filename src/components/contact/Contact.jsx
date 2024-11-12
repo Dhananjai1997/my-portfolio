@@ -66,7 +66,7 @@ function Contact() {
                     <div className="contact__form-div">
                         <label htmlFor="name" className="contact__form-tag">Name</label>
 
-                        <input type="text" name="name" className='contact__form-input' placeholder='Insert your name' />
+                        <input type="text" id="name" name="name" autoComplete="name" className='contact__form-input' placeholder='Insert your name' />
                     </div>
 
                     <div className="contact__form-div">
