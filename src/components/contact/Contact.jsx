@@ -72,7 +72,7 @@ function Contact() {
                     <div className="contact__form-div">
                         <label htmlFor="email" className="contact__form-tag">Email</label>
 
-                        <input type="email" name="email" className='contact__form-input' placeholder='Insert your email' />
+                        <input type="email" name="email" autoComplete="email" className='contact__form-input' placeholder='Insert your email' />
                     </div>
 
                     <div className="contact__form-div contact__form-area">
