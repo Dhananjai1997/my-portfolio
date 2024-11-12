@@ -30,11 +30,10 @@ const Footer = () => {
                     <i className="uil uil-linkedin"></i>
                 </a>
 
-                <a href="https://www.behance.net/dhananjaiyadav97" className="footer__social-link"  target="_blank" rel="noopener noreferrer">
+                {/* <a href="https://www.behance.net/dhananjaiyadav97" className="footer__social-link"  target="_blank" rel="noopener noreferrer">
                     <i className="uil uil-behance"></i>
-                </a>
+                </a> */}
             </div>
-
             <span className="footer__copy">
                 &#169; Dhananjay Yadav.  All rights reserved
             </span>
