@@ -11,8 +11,8 @@ const Cloud = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">MySQL</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">Google</h3>
+                        {/* <span className="skills__level">Intermediate</span> */}
                     </div>
                 </div>
 
@@ -20,8 +20,8 @@ const Cloud = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">Postgre_SQL</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">Azure</h3>
+                        {/* <span className="skills__level">Intermediate</span> */}
                     </div>
                 </div>
             
