@@ -15,6 +15,7 @@ const Skills = () => {
                 <Frontend />
                 <Backend />
                 <Database />
+                <Cloud />
             </div>
         </section>
     )
