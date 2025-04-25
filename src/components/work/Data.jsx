@@ -2,9 +2,9 @@ import Work1 from '../../assets/bhaarghumo.png'
 import Work2 from '../../assets/varsha.jpg'
 import Work3 from '../../assets/kuk.png'
 import Work4 from '../../assets/organic.png'
-// import Work5 from '../../assets/figma.png'
+import Work5 from '../../assets/figma.png'
 import Work6 from '../../assets/form.png'
-// import Work7 from '../../assets/app.png'
+import Work7 from '../../assets/app.png'
 
 export const projectsData = [
     {
@@ -44,7 +44,7 @@ export const projectsData = [
         image : Work5,
         title : 'Figma design',
         category : 'design',
-        link : "https://www.figma.com/proto/EiK4QP4Dh4wvkJx7FCxSLT/personal-project?page-id=0%3A1&node-id=1-279&viewport=405%2C466%2C0.21&t=bSVVAgU4NLPdbxWO-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A279&show-proto-sidebar=1",
+        link : "",
           buttonName : "Figma design"
     },
     {
@@ -60,7 +60,7 @@ export const projectsData = [
         image : Work7,
         title : 'HRMS',
         category : 'app',
-        link : "https://www.figma.com/proto/gdXxoStWU990FIlyPrgV8M/Untitled?page-id=0%3A1&node-id=74-463&viewport=470%2C1980%2C0.63&t=CTTdhLSlCwfRPxwg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=74%3A463",
+        link : "",
           buttonName : "HRMS"
     },
 ];
