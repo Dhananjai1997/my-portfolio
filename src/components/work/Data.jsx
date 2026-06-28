@@ -54,7 +54,7 @@ export const projectsData = [
         image : Work6,
         title : 'Form design',
         category : 'design',
-        link : "https://queryform.vercel.app/",
+        link : "https://www.resumemitra.com/",
           buttonName : "Form design"
     },
     {
