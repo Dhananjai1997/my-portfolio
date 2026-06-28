@@ -111,10 +111,10 @@ const Qualification = () => {
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Web Developer Intern</h3>
-                            <span className="qualification__subtitle">CAL Info - Kurukshetra</span>
+                            <h3 className="qualification__title">UI/UX & Game_UI Designer</h3>
+                            <span className="qualification__subtitle">Homilab - Delhi</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calender-alt">2023</i>
+                                <i className="uil uil-calender-alt">05/2025 - Present</i>
                             </div>
                         </div>
 
@@ -123,7 +123,20 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                     </div>
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">UI/UX Designer</h3>
+                            <span className="qualification__subtitle">INTECHNative - Noida</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calender-alt">01/2025 - 05/2025</i>
+                            </div>
+                        </div>
 
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                    </div>
                     <div className="qualification__data">
                         <div></div>
                         <div>
