@@ -64,13 +64,21 @@ export const projectsData = [
         link : "",
           buttonName : "HRMS"
     },
-        {
+   {
         id : 8,
         image : Work8,
         title : 'Tapservicesus',
         category : 'web',
         link : "https://tapservicesus.com/",
           buttonName : "tapservicesus"
+    },
+     {
+        id : 9,
+        image : Work8,
+        title : 'ResumeMitra',
+        category : 'web',
+        link : "https://www.resumemitra.com/",
+          buttonName : "ResumeMitra"
     },
 ];
 
