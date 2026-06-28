@@ -9,6 +9,22 @@ import Work8 from '../../assets/app.png'
 
 
 export const projectsData = [
+     {
+        id : 6,
+        image : Work6,
+        title : 'ResumeMitra',
+        category : 'web',
+        link : "https://www.resumemitra.com/",
+          buttonName : "ResumeMitra"
+    },
+     {
+        id : 8,
+        image : Work8,
+        title : 'Tapservicesus',
+        category : 'web',
+        link : "https://tapservicesus.com/",
+          buttonName : "tapservicesus"
+    },
     {
         id : 1,
         image : Work1,
@@ -50,14 +66,6 @@ export const projectsData = [
           buttonName : "Figma design"
     },
     {
-        id : 6,
-        image : Work6,
-        title : 'Form design',
-        category : 'design',
-        link : "https://www.resumemitra.com/",
-          buttonName : "Form design"
-    },
-    {
         id : 7,
         image : Work7,
         title : 'HRMS',
@@ -65,14 +73,7 @@ export const projectsData = [
         link : "",
           buttonName : "HRMS"
     },
-   {
-        id : 8,
-        image : Work8,
-        title : 'Tapservicesus',
-        category : 'web',
-        link : "https://tapservicesus.com/",
-          buttonName : "tapservicesus"
-    },
+  
 ];
 
 export const projectsNav = [
