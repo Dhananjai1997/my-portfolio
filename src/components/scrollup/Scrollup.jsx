@@ -18,4 +18,4 @@ window.addEventListener("scroll" , function() {
   )
 }
 
-export default Scrollup
+export default Scrollup;
