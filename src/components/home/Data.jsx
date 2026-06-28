@@ -57,7 +57,7 @@ const Data = () =>{
             <h3 className="home__subtitle">UI/UX Designer</h3>
 
             <p className="home__description">
-                I'm creative designer & developer based in India and very passionate and dedicated to my work.
+               Designing User-Centered Experiences with Creativity and Precision.
             </p>
 
             <a href="#contact" className="button button--flex">
