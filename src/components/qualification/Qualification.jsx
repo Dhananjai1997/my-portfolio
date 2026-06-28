@@ -108,7 +108,7 @@ const Qualification = () => {
 
                 </div>
 
-                <div className={toggleState === 3 ? "qualification__content qualification__content-active" : "qualification__content"}>
+                <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">UI/UX & Game_UI Designer</h3>
@@ -123,20 +123,7 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                     </div>
-                    <div className="qualification__data">
-                        <div>
-                            <h3 className="qualification__title">UI/UX Designer</h3>
-                            <span className="qualification__subtitle">INTECHNative - Noida</span>
-                            <div className="qualification__calender">
-                                <i className="uil uil-calender-alt">01/2025 - 05/2025</i>
-                            </div>
-                        </div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-                    </div>
+                    
                     <div className="qualification__data">
                         <div></div>
                         <div>
@@ -145,14 +132,28 @@ const Qualification = () => {
                         </div>
                         
                         <div>
-                            <h3 className="qualification__title">Frontend Development - Training</h3>
-                            <span className="qualification__subtitle">Solitier Infosys - Mohali</span>
+                            <h3 className="qualification__title">UI/UX Designer</h3>
+                            <span className="qualification__subtitle">INTECHNative - Noida</span>
                             <div className="qualification__calender">
-                                <i className="uil uil-calender-alt">2022</i>
+                                <i className="uil uil-calender-alt">01/2025 - 05/2025</i>
                             </div>
                         </div>
 
                         
+                    </div>
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Frontend Development - Training</h3>
+                             <span className="qualification__subtitle">Solitaire Infosys - Mohali</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calender-alt">08/2022 - 11/2022</i>
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
                     </div>
 
                     {/* <div className="qualification__data">
