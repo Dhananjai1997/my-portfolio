@@ -33,6 +33,14 @@ export const projectsData = [
         link: "https://bhaarghumo.com/",
         buttonName : "bhaarghumo"
     },
+       {
+        id : 3,
+        image : Work3,
+        title : 'Kurukshetra University',
+        category : 'design',
+        link : "https://kurukshetrauniversity.vercel.app",
+          buttonName : "kuk"
+    },
     {
         id : 2,
         image : Work2,
@@ -41,14 +49,7 @@ export const projectsData = [
         link : "https://varshaflowers.live/index.html",
           buttonName : "varshaflowers"
     },
-    {
-        id : 3,
-        image : Work3,
-        title : 'Kurukshetra University',
-        category : 'design',
-        link : "https://kurukshetrauniversity.vercel.app",
-          buttonName : "kuk"
-    },
+ 
     {
         id : 4,
         image : Work4,
