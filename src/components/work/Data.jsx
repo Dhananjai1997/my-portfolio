@@ -6,6 +6,7 @@ import Work5 from '../../assets/figma.png'
 import Work6 from '../../assets/form.png'
 import Work7 from '../../assets/app.png'
 import Work8 from '../../assets/app.png'
+import Work8 from '../../assets/app.png'
 
 export const projectsData = [
     {
