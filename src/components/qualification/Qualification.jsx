@@ -108,7 +108,7 @@ const Qualification = () => {
 
                 </div>
 
-                <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
+                <div className={toggleState === 3 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">UI/UX & Game_UI Designer</h3>
