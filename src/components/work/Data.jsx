@@ -6,7 +6,7 @@ import Work5 from '../../assets/figma.png'
 import Work6 from '../../assets/form.png'
 import Work7 from '../../assets/app.png'
 import Work8 from '../../assets/app.png'
-import Work8 from '../../assets/app.png'
+
 
 export const projectsData = [
     {
@@ -72,14 +72,6 @@ export const projectsData = [
         category : 'web',
         link : "https://tapservicesus.com/",
           buttonName : "tapservicesus"
-    },
-     {
-        id : 9,
-        image : Work8,
-        title : 'ResumeMitra',
-        category : 'web',
-        link : "https://www.resumemitra.com/",
-          buttonName : "ResumeMitra"
     },
 ];
 
